@@ -3,7 +3,6 @@ PASSWORD GENERATOR
 
 This program allows you to generate password based on your input (no of letters, symbols, numbers)
 
-
 """
 
 import random
