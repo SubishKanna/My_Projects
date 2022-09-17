@@ -1,3 +1,11 @@
+"""
+Contains data for the main program.
+
+This file has the data's such as logo.
+"""
+
+
+
 logo = """
  _____________________
 |  _________________  |
