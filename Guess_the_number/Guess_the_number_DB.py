@@ -1,4 +1,10 @@
-logo ="""
+"""
+Contains data for the main program.
+
+This file has the data's such as logo.
+"""
+
+logo = """
  __ __      ____                                     __    __                                             __                       __ __     
 /\ \\ \    /\  _`\                                  /\ \__/\ \                                           /\ \                     /\ \\ \    
 \ \_\\_\   \ \ \L\_\  __  __    __    ____   ____   \ \ ,_\ \ \___      __         ___   __  __   ___ ___\ \ \____    __  _ __    \ \_\\_\   
