@@ -1,3 +1,9 @@
+"""
+Contains data for the main program.
+
+This file has the data's such as logo, vs, data.
+"""
+
 logo = """
     __  ___       __             
    / / / (_)___ _/ /_  ___  _____
@@ -17,7 +23,6 @@ vs = """
 | |/ (__  ) 
 |___/____(_)
 """
-
 
 data = [
     {
